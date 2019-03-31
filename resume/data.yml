@@ -1,0 +1,145 @@
+/* #*/ export const PERSON = `
+name:
+  first: 李
+  last: 芷儀
+about: 您好，我是前端工程師李芷儀，綽號小萬。在網頁設計打滾兩年，前端五年。<br>擅長團隊合作及人際溝通，與PM跟設計都相處愉快！將案子如期上線並且做到盡善盡美是我的原則，未來還有很多需要學習的地方，希望有機會一起切磋合作
+position: Front-end Developer
+
+birth:
+  year: 1989/05/20
+  location: 台北
+
+experience:
+- company: 科威資訊
+  position: 網頁設計
+  timeperiod: 2011~2013
+  description: 設計旅行社網站，開始接觸切版
+
+- company: FOFOSOLOMO
+  position: 前端設計師
+  timeperiod: 2013~2017
+  description: 製作campaign為主的網站，主要專注在動態與畫面特效
+
+- company: 網路基因
+  position: 前端工程師
+  timeperiod: 2017~2019
+  description: 實際運用Vue與React框架於專案上，使用webpack開發
+
+case:
+- name: VeryWed 非常婚禮
+  link: null
+  skill: ['Nuxt','ssr','php']
+  tag: 官網-製作中
+
+- name: Manara
+  link: https://www.manara.asia/tw/
+  skill: ['Vue','php','ec-cube']
+  tag: 官網
+
+- name: Quarkbiosciences 奎克生技
+  link: https://www.quarkbiosciences.com/en
+  skill: ['Nuxt','i18n','ssr','iis node']
+  tag: 官網
+
+- name: Meetfresh 鮮芋仙
+  link: http://www.meetfresh.com.tw/tw
+  skill: ['React','somorphic','iis node']
+  tag: 官網
+
+- name: Dobuo 多寶藝術學堂
+  link: http://taiwancurio.org.tw/#/
+  skill: ['Vue','php']
+  tag: 官網
+
+- name: 閱狷聲
+  link: https://housewebsite.webgene.com.tw/
+  skill: ['Vuex']
+  tag: 官網
+
+- name: 香港旅遊局 - 童話遊香港
+  link: https://cell2.webgene.com.tw/hongkong2018/tc/pc/
+  skill: ['CreateJs','php']
+  tag: campaign
+
+- name: 國泰人壽 - 高登計畫
+  link: https://campaign.cathaylife.com.tw/goldenplan/location
+  skill: ['vue','GoogleMap Api','FB Api']
+  tag: campaign
+
+
+- name: ASUS ROG 華碩電競
+  link: http://cell.webgene.com.tw/asus/website/2017_ROG/html/
+  skill: ['Vue','.net']
+  tag: campaign
+
+- name: TigarAir 台灣虎航
+  link: https://www.tigerairtw.com/event/2019NGO/
+  skill: ['jQuery','wowJs']
+  tag: campaign
+
+- name: BenQ
+  link: https://www.benq.com/zh-tw/campaign/tv-eyecare-minisite.html
+  skill: ['jQuery','parallaxJs']
+  tag: campaign
+
+
+education:
+- degree: 中興大學 
+  timeperiod: 2007~2011
+  description: 動物科技學系
+
+# skill level goes 0 to 100
+skills:
+- name: HTML5/css
+  level: 95
+- name: Sass
+  level: 90
+- name: Bootstrap
+  level: 90
+- name: Git
+  level: 70
+- name: jQuery
+  level: 90
+- name: Javascript
+  level: 60
+- name: Vue
+  level: 85
+- name: React
+  level: 60
+- name: Photoshop
+  level: 90
+- name: Illustrator
+  level: 60
+
+ 
+knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
+  (English and Klingon).
+
+projects:
+- name: best-resume-ever
+  platform: Vue
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+  url: https://github.com/salomonelli/best-resume-ever
+
+hobbies:
+- name: Video Games
+  iconClass: fa fa-gamepad
+  url: https://example.com
+
+- name: Drawing
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+contributions:
+- name: best-resume-ever
+  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
+  url: https://github.com/salomonelli/best-resume-ever
+
+contact:
+  email: hn85412404@gmail.com
+  phone: 0978-036006
+  city: 新北市汐止區
+  github: https://github.com/shirlinlee
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: zh-tw
+`
