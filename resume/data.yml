@@ -116,10 +116,10 @@ knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
   (English and Klingon).
 
 projects:
-- name: best-resume-ever
+- name: resume
   platform: Vue
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+  url: https://github.com/salomonelli/resume
 
 hobbies:
 - name: Video Games
@@ -131,9 +131,9 @@ hobbies:
   url: https://example.com
 
 contributions:
-- name: best-resume-ever
+- name: resume
   description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+  url: https://github.com/salomonelli/resume
 
 contact:
   email: hn85412404@gmail.com
